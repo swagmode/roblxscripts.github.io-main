@@ -1,0 +1,85 @@
+{
+    "executors": [
+        {
+            "name": "Krnl",
+            "logo": "https://media.discordapp.net/attachments/1055089392059961354/1066371864307437690/sa35EYpk9jNPcawDgEnmJ_4ggHfQBVyru50LkScT6gs.png",
+            "description": "",
+            "download": [
+                {
+                    "name": "Latest",
+                    "url": "https://k-storage.com/krnl_beta.exe"
+                },
+                {
+                    "name": "Legacy",
+                    "url": "https://k-storage.com/krnl_bootstrapper.exe"
+                }
+            ]
+        },
+        {
+            "name": "SynapseX",
+            "logo": "https://media.discordapp.net/attachments/1055089392059961354/1066381053293510686/image.png",
+            "description": "",
+            "download": [
+                {
+                    "name": "Buy Now",
+                    "url": "https://x.synapse.to/"
+                }
+            ]
+        },
+        {
+            "name": "script-ware",
+            "logo": "https://media.discordapp.net/attachments/1055089392059961354/1066373456058404885/uoy5EjR44cOXLkyJEjR44cOXLkuAfBFSILWWHIePAAAAAElFTkSuQmCC.png",
+            "description": "",
+            "download": [
+                {
+                    "name": "Buy Now",
+                    "url": "https://script-ware.com/m/purchase"
+                }
+            ]
+        },
+        {
+            "name": "Fluxus",
+            "logo": "https://media.discordapp.net/attachments/1055089392059961354/1066373888247869500/Fluxus-Download.png",
+            "description": "",
+            "download": [
+                {
+                    "name": "Download",
+                    "url": "https://cdn.discordapp.com/attachments/1026465307683987537/1040536658040344626/Fluxus.zip"
+                }
+            ]
+        },
+        {
+            "name": "Arceus X",
+            "logo": "https://media.discordapp.net/attachments/1055089392059961354/1066374777658408960/Arceus-X-Logo.png",
+            "description": "",
+            "download": [
+                {
+                    "name": "Coming Soon..",
+                    "url": "/#/exploits"
+                }
+            ]
+        },
+        {
+            "name": "Delta v3",
+            "logo": "https://media.discordapp.net/attachments/1055089392059961354/1066394384737783941/delta-111521.png",
+            "description": "",
+            "download": [
+                {
+                    "name": "Download",
+                    "url": "https://deltaexploits.com/DeltaInstaller.exe"
+                }
+            ]
+        },
+        {
+            "name": "Delta Android",
+            "logo": "https://media.discordapp.net/attachments/1055089392059961354/1066394384737783941/delta-111521.png",
+            "description": "",
+            "download": [
+                {
+                    "name": "Coming Soon..",
+                    "url": "/#/exploits"
+                }
+            ]
+        }
+    ]
+}
