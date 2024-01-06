@@ -1,0 +1,63 @@
+{
+    "games": [
+        {
+            "name": "Game1",
+            "id": "Game1",
+            "image": "https://cf.shopee.com.my/file/afa9b1cd79753e0338b3d657be24f7d7",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias necessitatibus rem voluptatum beatae eligendi dolores quo hic soluta, nam similique dicta facilis aliquid tempora magnam. Eveniet sint rem ea atque?",
+            "date": "0",
+            "link": "https://google.com",
+            "code_description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias necessitatibus rem voluptatum beatae eligendi dolores quo hic soluta, nam similique dicta facilis aliquid tempora magnam. Eveniet sint rem ea atque?",
+            "scripts": [
+                {
+                    "name": "SwgaMode",
+                    "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))()"
+                },
+                {
+                    "name": "SwgaMode (OLD)",
+                    "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/OldSwagmode'))()"
+                }
+            ]
+        },
+        {
+            "name": "Game2",
+            "id": "Game2",
+            "image": "https://cf.shopee.com.my/file/afa9b1cd79753e0338b3d657be24f7d7",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias necessitatibus rem voluptatum beatae eligendi dolores quo hic soluta, nam similique dicta facilis aliquid tempora magnam. Eveniet sint rem ea atque?",
+            "date": "0",
+            "link": "https://google.com"
+        },
+        {
+            "name": "Game3",
+            "id": "Game3",
+            "image": "https://cf.shopee.com.my/file/afa9b1cd79753e0338b3d657be24f7d7",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias necessitatibus rem voluptatum beatae eligendi dolores quo hic soluta, nam similique dicta facilis aliquid tempora magnam. Eveniet sint rem ea atque?",
+            "date": "0",
+            "link": "https://google.com"
+        },
+        {
+            "name": "Game4",
+            "id": "Game4",
+            "image": "https://cf.shopee.com.my/file/afa9b1cd79753e0338b3d657be24f7d7",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias necessitatibus rem voluptatum beatae eligendi dolores quo hic soluta, nam similique dicta facilis aliquid tempora magnam. Eveniet sint rem ea atque?",
+            "date": "0",
+            "link": "https://google.com"
+        },
+        {
+            "name": "Game5",
+            "id": "Game5",
+            "image": "https://cf.shopee.com.my/file/afa9b1cd79753e0338b3d657be24f7d7",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias necessitatibus rem voluptatum beatae eligendi dolores quo hic soluta, nam similique dicta facilis aliquid tempora magnam. Eveniet sint rem ea atque?",
+            "date": "0",
+            "link": "https://google.com"
+        },
+        {
+            "name": "Game6",
+            "id": "Game6",
+            "image": "https://cf.shopee.com.my/file/afa9b1cd79753e0338b3d657be24f7d7",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias necessitatibus rem voluptatum beatae eligendi dolores quo hic soluta, nam similique dicta facilis aliquid tempora magnam. Eveniet sint rem ea atque?",
+            "date": "0",
+            "link": "https://google.com"
+        }
+    ]
+}
